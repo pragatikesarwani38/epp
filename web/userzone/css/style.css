@@ -1,0 +1,105 @@
+#outer
+{
+    width:1000px;
+    min-height:1050px;
+    margin:0 auto;  
+    height:auto;
+}
+#header
+{
+    width:1000px;
+    height:150px;
+}
+#logo
+{
+    height:150px;
+    width:150px;
+    background-color:aqua;
+    float:left;
+}
+#banner
+{
+    width:850px;
+    height:150px;
+    background-color:teal;
+    float:right;
+    text-align:center;
+    color:white;
+    font-size:70px;
+    line-height:150px;
+}
+#menu
+{
+    width:1000px;
+    height:50px;
+    background-color:aqua;
+    margin-top:5px;
+    border:1px solid aqua;
+    border-bottom-color:red;
+}
+#menu ul
+{
+    list-style-type:none;
+}
+#menu ul li
+{
+    display:inline;
+}
+#menu ul li a
+{
+    font-size:20px;
+    padding:20px;
+    text-decoration:none;
+    color:black;
+}
+#menu ul li a:hover
+{
+    color:red;
+}
+#parent
+{
+    width:1000px;
+    min-height:700px;
+    margin-top:5px;
+    height:auto;
+    background-color:white;
+}
+#footer
+{
+    width:1000px;
+    height:130px;
+    margin-top:5px;
+}
+#lfooter
+{
+    width:500px;
+    height:130px;
+    background-color:black;
+    float:left;
+    color:white;
+    font-size:30px;
+    text-align:center;
+    line-height:130px;
+}
+#rfooter
+{
+    width:500px;
+    height:130px;
+    background-color:black;
+    float:right;
+    color:white;
+    font-size:30px;
+    text-align:center;
+    line-height:130px;
+}
+
+
+
+
+
+
+
+
+
+
+
